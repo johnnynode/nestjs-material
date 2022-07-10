@@ -8,3 +8,4 @@ Nestjs
 - [3、Nestjs配置静态资源，模板引擎以及Post示例](./contents/3.md)
 - [4、Nestjs配置服务，配置Cookie和Session](./contents/4.md)
 - [5、Nestjs配置文件上传, 配置中间件以及管道的使用](./contents/5.md)
+- [6、Nestjs中关于模块和模块的共享Nestjs中关于模块和模块的共享](./contents/6.md)
