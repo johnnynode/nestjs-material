@@ -9,3 +9,4 @@ Nestjs
 - [4、Nestjs配置服务，配置Cookie和Session](./contents/4.md)
 - [5、Nestjs配置文件上传, 配置中间件以及管道的使用](./contents/5.md)
 - [6、Nestjs中关于模块和模块的共享Nestjs中关于模块和模块的共享](./contents/6.md)
+- [7、NestJs中的守卫](./contents/7.md)
